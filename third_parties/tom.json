@@ -1,0 +1,456 @@
+{
+  "public_identifier": "dr-thomas-endres-b8b6475",
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dr-thomas-endres-b8b6475/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240718%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240718T093822Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b512001928a6cea4a9132e0b0047c7f23052f4904686c20e52f62e68930b6a51",
+  "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dr-thomas-endres-b8b6475/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240718%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240718T093822Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b787c3f7d36100ce8c321edf83c1984438771d38a4c29458decfb62760fe42be",
+  "first_name": "Dr. Thomas",
+  "last_name": "Endres",
+  "full_name": "Dr. Thomas Endres",
+  "follower_count": 1586,
+  "occupation": "CEO & Founder  at corporate momentum GmbH ",
+  "headline": "CEO & Founder at corporate momentum GmbH",
+  "summary": "Digitization is a key enabler for innovation and competitiveness of companies and even for countries. Combining the power of innovation with operational excellence is key for success. This has consequences for investment strategies, advisory board  priorities and leadership in organisations. Creating the optimum digital value in companies, for customers and for the society as a whole is one of the driving challenges of todays entrepreneurial life. ",
+  "country": "DE",
+  "country_full_name": "Germany",
+  "city": "Dreieich",
+  "state": "Hesse",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": "None",
+      "company": "tomendres.de",
+      "company_linkedin_profile_url": "None",
+      "company_facebook_profile_url": "None",
+      "title": "Entrepreneur, Consultant, Member of Advisory and Governance Boards",
+      "description": "None",
+      "location": "Germany",
+      "logo_url": "None"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2019
+      },
+      "company": "euro.digital",
+      "company_linkedin_profile_url": "None",
+      "company_facebook_profile_url": "None",
+      "title": "Founding Chairman ",
+      "description": "None",
+      "location": "None",
+      "logo_url": "None"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2012
+      },
+      "company": "Lufthansa Group",
+      "company_linkedin_profile_url": "None",
+      "company_facebook_profile_url": "None",
+      "title": "Chief Information Officer",
+      "description": "None",
+      "location": "Frankfurt, Dreieich",
+      "logo_url": "None"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2019
+      },
+      "ends_at": "None",
+      "company": "corporate momentum GmbH ",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/corporate_momentum_gmbh/",
+      "company_facebook_profile_url": "None",
+      "title": "CEO & Founder ",
+      "description": "Managing Digital Benefits - Consulting and Execution Competence.",
+      "location": "Dreieich, Frankfurt ",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/corporate_momentum_gmbh/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240718%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240718T093826Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=1301ece4f239ae8fa2d991893d7cd0cac23d6266d7e70f5acf0a2a59ad202814"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2017
+      },
+      "ends_at": "None",
+      "company": "DigitalLoge GmbH",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/digitalloge-gmbh/",
+      "company_facebook_profile_url": "None",
+      "title": "Trusted Network Partner",
+      "description": "None",
+      "location": "Dreieich, Hessen, Deutschland",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/digitalloge-gmbh/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240718%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240718T093826Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=ecc53a6d090c3cbc6f5f59634959069847337beb4b138323b54f7d193a25cf66"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2019
+      },
+      "company": "VOICE - Bundesverband der IT-Anwender e.V.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/voice-ev/",
+      "company_facebook_profile_url": "None",
+      "title": "Chairman and Speaker of the Presidium of VOICE",
+      "description": "Sparring and Qualification for Advisory Boards and Executive Managers esp. with regard to Digitization, Strategy and Change.",
+      "location": "None",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/voice-ev/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240718%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240718T093826Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=5d9b86b751db43306f0c3a080948f702412ba0224212e67709c13e02775e33d6"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2018
+      },
+      "company": "European CIO Association",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/european-cio-association/",
+      "company_facebook_profile_url": "None",
+      "title": "Co-Chairman EuroCIO",
+      "description": "None",
+      "location": "None",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/european-cio-association/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240718%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240718T093826Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=df64c671664758094dec3911743d479bb27776be4ffc000a675c12ae7d9c62ca"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2014
+      },
+      "company": "A.T. Kearney",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/kearney/",
+      "company_facebook_profile_url": "None",
+      "title": "Associate Director",
+      "description": "None",
+      "location": "Frankfurt Am Main Area, Germany",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/kearney/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240718%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240718T093826Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=7befffd8257a03274f53bd9ed686e739a5ac6cffc5a33402d33b0d937d2e1f06"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2012
+      },
+      "company": "Lufthansa Systems",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/lufthansa-systems/",
+      "company_facebook_profile_url": "None",
+      "title": "Member of the Supervisory Board",
+      "description": "None",
+      "location": "None",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/lufthansa-systems/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240718%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240718T093826Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=5048324a65ec4440165ec46dbed503d29e7b8bc5bd63b01292ecb8d3f0fe7c87"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2001
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2002
+      },
+      "company": "Lufthansa",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/lufthansa/",
+      "company_facebook_profile_url": "None",
+      "title": "General Manager HR - IT",
+      "description": "None",
+      "location": "None",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/lufthansa/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240718%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240718T093826Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=4dc76d2ec8d60fc611a7f38d5163b94d383a2a96145325f9ad24258dc1b5fdc9"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1989
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 1993
+      },
+      "field_of_study": "Werkstoffwissenschaften/Technologie der Metalle und Industriebetriebslehre",
+      "degree_name": "Doctor of Philosophy (Ph.D.)",
+      "school": "FAU Erlangen-Nürnberg",
+      "school_linkedin_profile_url": "None",
+      "school_facebook_profile_url": "None",
+      "description": "None",
+      "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGpTc4LzN4sQg/company-logo_400_400/0/1634116635801/fau_erlangen_nrnberg_logo?e=1724284800&v=beta&t=I9bcYFlo7DIX9n9pn4MpX3hjKOE8aOWfUcim8VBTHMI",
+      "grade": "None",
+      "activities_and_societies": "None"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1986
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 1987
+      },
+      "field_of_study": "Ceramic Engineering",
+      "degree_name": "Master Studies",
+      "school": "Alfred University",
+      "school_linkedin_profile_url": "None",
+      "school_facebook_profile_url": "None",
+      "description": "None",
+      "logo_url": "https://media.licdn.com/dms/image/D4E0BAQEhBnN6_gnBBQ/company-logo_400_400/0/1665422346478/alfred_university_logo?e=1724284800&v=beta&t=c4AlnvM3JcGi4ldzzKd9iYzaWXjYXVqK9Sn8bvkfGbQ",
+      "grade": "None",
+      "activities_and_societies": "None"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1983
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 1989
+      },
+      "field_of_study": "Material Science",
+      "degree_name": "Engineer's Degree",
+      "school": "FAU Erlangen-Nürnberg",
+      "school_linkedin_profile_url": "None",
+      "school_facebook_profile_url": "None",
+      "description": "None",
+      "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGpTc4LzN4sQg/company-logo_400_400/0/1634116635801/fau_erlangen_nrnberg_logo?e=1724284800&v=beta&t=I9bcYFlo7DIX9n9pn4MpX3hjKOE8aOWfUcim8VBTHMI",
+      "grade": "Diplom Ingenieur",
+      "activities_and_societies": "None"
+    }
+  ],
+  "languages": ["English", "German"],
+  "accomplishment_organisations": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2020
+      },
+      "ends_at": "None",
+      "org_name": "Bundeswirtschaftssenat Arbeitgeber Verband Deutschland ",
+      "title": "Member ",
+      "description": "None"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": "None",
+      "org_name": "Business Angels Frankfurt",
+      "title": "None",
+      "description": "None"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": "None",
+      "org_name": "Member of the Board of Trustees of the Fraunhofer Institute for Security in Information Technology SIT",
+      "title": "None",
+      "description": "None"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "org_name": "Landespräventionsrat Nordrhein Westfalen (state prevention council)",
+      "title": "None",
+      "description": "None"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2019
+      },
+      "org_name": "Advisory Board Alliance for Cyber Security Germany",
+      "title": "None",
+      "description": "None"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2019
+      },
+      "org_name": "VOICE, Bundesverband der IT-Anwender e.V.",
+      "title": "Presidium VOICE",
+      "description": "None"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2018
+      },
+      "org_name": "Board EuroCIO ",
+      "title": "Co-Chairman of the European CIO Association",
+      "description": "None"
+    }
+  ],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/erikbrenneis",
+      "name": "Erik Brenneis",
+      "summary": "CEO Vodafone IoT",
+      "location": "None"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christianschloegel",
+      "name": "Christian Schloegel",
+      "summary": "Chief Digital Officer (CDO) & Member of the Executive Board / Digital Transformation / AI & GenAI / SaaS / Corporate Ventures / IT Strategy / Cyber Security / Software Growth / IoT / Pharma / Supply Chain / Machinery",
+      "location": "None"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christophharding",
+      "name": "Christoph Harding ☁",
+      "summary": "Enterprise Account Executive @ Microsoft | Manufacturing expert 🏭 | Cloud lover ❤️ | Microsoft enthusiast 🪟",
+      "location": "None"
+    },
+    {
+      "link": "https://www.linkedin.com/in/markusehrle",
+      "name": "Markus Ehrle",
+      "summary": "GVP & General Manager EMEA Central ServiceNow",
+      "location": "None"
+    },
+    {
+      "link": "https:// /www.linkedin.com/in/klaswestholm",
+      "name": "Klas Westholm",
+      "summary": "CEO - TH1NG",
+      "location": "None"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wolfgang-marks-10153984",
+      "name": "Wolfgang Marks",
+      "summary": "Founder & CEO at Amapharm GmbH",
+      "location": "None"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rehan-khan-73927b58",
+      "name": "Rehan Khan",
+      "summary": "CEO Rabb IT Solutions GmbH 🏆 TOP100 Innovator 🏆 Arbeitgeber der Zukunft",
+      "location": "None"
+    },
+    {
+      "link": "https://www.linkedin.com/in/johannes-isensee",
+      "name": "Johannes Isensee",
+      "summary": "Controlling & Finance | Retail & Consumer Goods | Horváth",
+      "location": "None"
+    },
+    {
+      "link": "https://www.linkedin.com/in/timo-renner-02925aa7",
+      "name": "Timo Renner",
+      "summary": "Mit über 20 Jahren Investment Erfahrung habe ich über 1700 Menschen zu einem Leben in finanzieller Freiheit verholfen - Sorgen wir dafür, dass du der nächste bist!",
+      "location": "None"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sina-bliemel-322548226",
+      "name": "Sina Bliemel",
+      "summary": "Marketing Managerin bei corporate momentum GmbH | Online Marketing-Expertin mit Kommunikations-Know-how",
+      "location": "None"
+    }
+  ],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [
+    "Digitization and digitization skills",
+    "Qualification of supervisory and advisory boards",
+    "Sparring and consulting top management and board members",
+    "Innovation Management",
+    "Startups and support for startups",
+    "Human Resource Management"
+  ],
+  "inferred_salary": {
+    "min": "None",
+    "max": "None"
+  },
+  "gender": "None",
+  "birth_date": "None",
+  "industry": "None",
+  "extra": {
+    "github_profile_id": "None",
+    "twitter_profile_id": "None",
+    "facebook_profile_id": "None"
+  },
+  "interests": ["Rotary", "Running", "Sailing", "Skiing"],
+  "personal_emails": ["thomas.endres@dlh.de"],
+  "personal_numbers": []
+}
