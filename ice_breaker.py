@@ -4,6 +4,7 @@ from langchain_openai import ChatOpenAI
 from langchain_core.output_parsers import StrOutputParser
 from third_parties.linkedin import scrape_linkedin_profile
 from agents.linkedin_lookup_agent import lookup as linkedin_lookup_agent
+from output_parsers import summary_parser
 
 
 def ice_breaker_with(name: str) -> str:
@@ -14,18 +15,22 @@ def ice_breaker_with(name: str) -> str:
 
     summary_template = """
         given the information {information} about a person I want you to create a:
-        1. a short summary in 3 sentences
-        2. their years of experience and their current workplace
-        3. two interesting facts about them
+        1. a short summary
+        2. Two interesting facts about them
+    \n{format_instructions}
     """
 
     summary_prompt_template = PromptTemplate(
-        input_variables=["information"], template=summary_template
+        input_variables=["information"],
+        template=summary_template,
+        partial_variables={
+            "format_instructions": summary_parser.get_format_instructions()
+        },
     )
 
     llm = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo")
 
-    chain = summary_prompt_template | llm | StrOutputParser()
+    chain = summary_prompt_template | llm | summary_parser
 
     res = chain.invoke(input={"information": linkedin_data})
 
